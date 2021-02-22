@@ -1,0 +1,15 @@
+/Users/nicho/Desktop/Projects/GIT/asyncpractice/obj/Debug/net5.0/asyncpractice.csprojAssemblyReference.cache
+/Users/nicho/Desktop/Projects/GIT/asyncpractice/obj/Debug/net5.0/asyncpractice.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nicho/Desktop/Projects/GIT/asyncpractice/obj/Debug/net5.0/asyncpractice.AssemblyInfoInputs.cache
+/Users/nicho/Desktop/Projects/GIT/asyncpractice/obj/Debug/net5.0/asyncpractice.AssemblyInfo.cs
+/Users/nicho/Desktop/Projects/GIT/asyncpractice/obj/Debug/net5.0/asyncpractice.csproj.CoreCompileInputs.cache
+/Users/nicho/Desktop/Projects/GIT/asyncpractice/bin/Debug/net5.0/asyncpractice.deps.json
+/Users/nicho/Desktop/Projects/GIT/asyncpractice/bin/Debug/net5.0/asyncpractice.runtimeconfig.json
+/Users/nicho/Desktop/Projects/GIT/asyncpractice/bin/Debug/net5.0/asyncpractice.runtimeconfig.dev.json
+/Users/nicho/Desktop/Projects/GIT/asyncpractice/bin/Debug/net5.0/asyncpractice.dll
+/Users/nicho/Desktop/Projects/GIT/asyncpractice/bin/Debug/net5.0/ref/asyncpractice.dll
+/Users/nicho/Desktop/Projects/GIT/asyncpractice/bin/Debug/net5.0/asyncpractice.pdb
+/Users/nicho/Desktop/Projects/GIT/asyncpractice/obj/Debug/net5.0/asyncpractice.dll
+/Users/nicho/Desktop/Projects/GIT/asyncpractice/obj/Debug/net5.0/ref/asyncpractice.dll
+/Users/nicho/Desktop/Projects/GIT/asyncpractice/obj/Debug/net5.0/asyncpractice.pdb
+/Users/nicho/Desktop/Projects/GIT/asyncpractice/obj/Debug/net5.0/asyncpractice.genruntimeconfig.cache
